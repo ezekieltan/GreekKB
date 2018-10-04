@@ -1,0 +1,20 @@
+D:\Visual Studio\C# stuff\MATLAB\MATLAB\bin\Debug\MATLAB.exe.config
+D:\Visual Studio\C# stuff\MATLAB\MATLAB\obj\Debug\MATLAB.Form1.resources
+D:\Visual Studio\C# stuff\MATLAB\MATLAB\obj\Debug\MATLAB.Properties.Resources.resources
+D:\Visual Studio\C# stuff\MATLAB\MATLAB\obj\Debug\MATLAB.csproj.GenerateResource.Cache
+D:\Visual Studio\C# stuff\MATLAB\MATLAB\bin\Debug\MATLAB.exe
+D:\Visual Studio\C# stuff\MATLAB\MATLAB\bin\Debug\MATLAB.pdb
+D:\Visual Studio\C# stuff\MATLAB\MATLAB\obj\Debug\MATLAB.exe
+D:\Visual Studio\C# stuff\MATLAB\MATLAB\obj\Debug\MATLAB.pdb
+C:\@@@ ALL DATA\Visual Studio\C# stuff\MATLAB\MATLAB\bin\Debug\MATLAB.exe.config
+C:\@@@ ALL DATA\Visual Studio\C# stuff\MATLAB\MATLAB\obj\Debug\MATLAB.exe
+C:\@@@ ALL DATA\Visual Studio\C# stuff\MATLAB\MATLAB\obj\Debug\MATLAB.pdb
+C:\@@@ ALL DATA\Visual Studio\C# stuff\MATLAB\MATLAB\bin\Debug\MATLAB.exe
+C:\@@@ ALL DATA\Visual Studio\C# stuff\MATLAB\MATLAB\bin\Debug\MATLAB.pdb
+C:\@@@ ALL DATA\Visual Studio\C# stuff\MATLAB\MATLAB\obj\Debug\MATLAB.csprojResolveAssemblyReference.cache
+C:\@@@ ALL DATA\Visual Studio\C# stuff\MATLAB\MATLAB\obj\Debug\MATLAB.Form1.resources
+C:\@@@ ALL DATA\Visual Studio\C# stuff\MATLAB\MATLAB\obj\Debug\MATLAB.Properties.Resources.resources
+C:\@@@ ALL DATA\Visual Studio\C# stuff\MATLAB\MATLAB\obj\Debug\MATLAB.csproj.GenerateResource.Cache
+C:\@@@ ALL DATA\Visual Studio\C# stuff\MATLAB\MATLAB\obj\Debug\MATLAB.csproj.CoreCompileInputs.cache
+D:\Visual Studio\C# stuff\MATLAB\MATLAB\obj\Debug\MATLAB.csprojAssemblyReference.cache
+D:\Visual Studio\C# stuff\MATLAB\MATLAB\obj\Debug\MATLAB.csproj.CoreCompileInputs.cache
