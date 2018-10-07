@@ -18,3 +18,13 @@ D:\Visual Studio\C# stuff\GreekKB\GreekKB\obj\Debug\GreekKB.csproj.GenerateResou
 D:\Visual Studio\C# stuff\GreekKB\GreekKB\obj\Debug\GreekKB.csproj.CoreCompileInputs.cache
 D:\Visual Studio\C# stuff\GreekKB\GreekKB\obj\Debug\GreekKB.exe
 D:\Visual Studio\C# stuff\GreekKB\GreekKB\obj\Debug\GreekKB.pdb
+D:\git\GreekKB\GreekKB\GreekKB\bin\Debug\GreekKB.exe.config
+D:\git\GreekKB\GreekKB\GreekKB\bin\Debug\GreekKB.exe
+D:\git\GreekKB\GreekKB\GreekKB\bin\Debug\GreekKB.pdb
+D:\git\GreekKB\GreekKB\GreekKB\obj\Debug\GreekKB.csprojAssemblyReference.cache
+D:\git\GreekKB\GreekKB\GreekKB\obj\Debug\GreekKB.Form1.resources
+D:\git\GreekKB\GreekKB\GreekKB\obj\Debug\GreekKB.Properties.Resources.resources
+D:\git\GreekKB\GreekKB\GreekKB\obj\Debug\GreekKB.csproj.GenerateResource.cache
+D:\git\GreekKB\GreekKB\GreekKB\obj\Debug\GreekKB.csproj.CoreCompileInputs.cache
+D:\git\GreekKB\GreekKB\GreekKB\obj\Debug\GreekKB.exe
+D:\git\GreekKB\GreekKB\GreekKB\obj\Debug\GreekKB.pdb
