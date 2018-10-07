@@ -8,7 +8,7 @@ Ctrl + Win + numpad key = greek character
 Ctrl + Backspace = Hide <br />
 Ctrl + Delete = Quit
 
-Useful for engineering reports, math and chemical equations.
+Useful for engineering reports, math equations and chemical equations.
 
 Sample:
 ![alt text](https://raw.githubusercontent.com/ezekieltan/GreekKB/master/sample.png)
